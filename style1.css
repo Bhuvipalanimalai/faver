@@ -1,0 +1,17 @@
+body{
+    
+    background-color: rgb(237, 242, 242);
+}
+
+#id1 ul{
+    float: center;
+    background-color: aquamarine;
+}
+#id1 ul li{
+    display: inline;
+    margin-right: 200px;
+}
+#id1 ul li a{
+    color: cadetblue;
+    text-decoration:none ;
+}
